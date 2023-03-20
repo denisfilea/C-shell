@@ -1,0 +1,6 @@
+This is an example
+of a sentence
+for 
+word
+counting among others.
+
